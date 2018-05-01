@@ -1,13 +1,13 @@
 {
   "name": "node-basic-library-webpack",
   "version": "1.0.0",
-  "description": "",
+  "description": "Example of creating a basic NodeJS library using Webpack",
   "main": "dist/main.js",
   "scripts": {
     "build": "webpack",
     "test": "node test"
   },
-  "author": "",
+  "author": "Texthelp, Ltd.",
   "license": "ISC",
   "devDependencies": {
     "webpack": "^4.6.0",
