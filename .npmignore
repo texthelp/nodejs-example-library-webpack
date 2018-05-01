@@ -1,0 +1,7 @@
+# By default, NPM will ignore everything that is also in .gitignore
+# so we create this special .npmignore file to override those defaults
+
+# For example, we want to include the dist/ folder, as it's going
+# to contain our compiled code:
+
+!dist/
